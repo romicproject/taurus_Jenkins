@@ -4,4 +4,5 @@ Second try, may be it will work.
 Hai inca odata.
 Iarasi mai incercam.
 Si din nou muzica!!!
-Web-Hook-ul lucreaza cu ngrok!!!
+Web-Hook-ul lucreaza cu ngrok!!! \n
+Dar asa si nu merge Build-ul :( 
